@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344393673670",
+    "project_id": "master-siomai",
+    "storage_bucket": "master-siomai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344393673670:android:b697d709b346314996e0c7",
+        "android_client_info": {
+          "package_name": "com.josu.mastersio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344393673670-q4k5go5fjr20bgq4jg1disrgdg6fa4g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQrqICrZTip_uX-w_hDKpGUolVjJiFYXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344393673670-q4k5go5fjr20bgq4jg1disrgdg6fa4g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
